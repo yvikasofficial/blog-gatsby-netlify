@@ -54,11 +54,11 @@
   --fontSize-5: 2.074rem;
   --fontSize-6: 2.488rem;
   --fontSize-7: 2.986rem;
-  --color-primary: #005b99;
+  --color-primary: rgb(10, 122, 225);
   --color-text: #2e353f;
-  --color-text-light: #4f5969;
-  --color-heading: #1a202c;
-  --color-heading-black: black;
+  --color-text-light: #bcd1f3;
+  --color-heading: #cad4dd;
+  --color-heading-black: white;
   --color-accent: #d1dce5;
 }
 
@@ -81,6 +81,10 @@ body {
   font-family: var(--font-body);
   font-size: var(--fontSize-1);
   color: var(--color-text);
+  color: white;
+  /* font-family: "gilroy", sans-serif; */
+  /* font-size: 1.7rem; */
+  background: rgb(28, 28, 30);
 }
 
 footer {
@@ -197,6 +201,7 @@ li > ul {
 }
 
 blockquote {
+  background-color: rgba(225, 225, 225, 0.05);
   color: var(--color-text-light);
   margin-left: calc(-1 * var(--spacing-6));
   margin-right: var(--spacing-8);
