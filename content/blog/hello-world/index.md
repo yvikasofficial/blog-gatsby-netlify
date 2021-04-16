@@ -1,7 +1,9 @@
 ---
 title: Hello World
 date: 2015-05-01T22:12:03.284Z
-description: Hello World
+description: " Are you a live-streaming novice whose videos always look just
+  a             little…dull? You probably need better lighting. In our full
+  video             lighting guide, you’ll learn everything you need to know."
 category: game-info
 slug: the-noe-movie-from-the-test-place
 image: salty_egg.jpg
