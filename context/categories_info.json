@@ -1,0 +1,12 @@
+{
+  "categories": [
+    {
+      "name": "Games",
+      "slug": "games"
+    },
+    {
+      "name": "Nukes",
+      "slug": "nukes"
+    }
+  ]
+}
